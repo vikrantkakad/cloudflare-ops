@@ -1,5 +1,7 @@
 # cloudflare-ops
+
 [![License](https://img.shields.io/github/license/vikrantkakad/cloudflare-ops?color=009fff)](LICENSE)
+
 Bash script to access CloudFlare API for Dev-Mode &amp; Cache Purge
 
 ## Pre-requisite: ##
